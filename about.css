@@ -1,0 +1,32 @@
+body {
+    background-image: url('aboutus.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.content{
+  font-size:20;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media(max-width:700px){
+    .body{
+        flex-direction:coloumn;
+    }
+}
